@@ -1,25 +1,25 @@
 body {
-    background-color: #111;
-    color: #BBB;
-    text-align: center;
-    font-family: "Source Code Pro";
+	background-color: #111;
+	color: #BBB;
+	text-align: center;
+	font-family: "Source Code Pro";
 }
 a {
-    text-decoration: none;
-    color: #BBB;
+	text-decoration: none;
+	color: #BBB;
 }
 a:hover {
-    color: #FFF;
+	color: #FFF;
 }
 a:active {
-    color: #000;
+	color: #000;
 }
 #error {
 	font-size: 2em;
 	vertical-align: center;
 }
 #error h1 {
-    font-family: "Audiowide";
+	font-family: "Audiowide";
 }
 #title {
 	font-size: 1.5em;
@@ -27,24 +27,24 @@ a:active {
 	line-height: .8em;
 }
 #title h1 {
-    font-family: "Audiowide";
+	font-family: "Audiowide";
 }
 #main {
 	width: 600px;
 	margin-left: auto;
 	margin-right: auto;
-    text-align: left;
+	text-align: left;
 }
 #foot {
 	margin-top: 200px;
 	width: 800px;
 	margin-left: auto;
 	margin-right: auto;
-    text-align: left;
-    font-size: 0.7em;
+	text-align: left;
+	font-size: 0.7em;
 }
 #footcol {
-    float: left;
+	float: left;
 	width: 150px;
 	margin-right: 25px;
 }
